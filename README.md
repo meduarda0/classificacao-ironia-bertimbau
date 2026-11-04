@@ -53,7 +53,7 @@ A competição possui acesso privado. Por esse motivo, os arquivos de dados util
 4. Execute as células do notebook em ordem.
 5. Ao final, o arquivo `submission.csv` será gerado com as previsões do modelo.
 
-O projeto foi desenvolvido no Google Colab, é possível seguir o passo a passo descrito ou abrir diretamente no Google Colab [clicando aqui].(https://colab.research.google.com/drive/1U7aYRnRgQye8RwQMTFd1DfzDCrsdL1QH?usp=sharing).
+O projeto foi desenvolvido no Google Colab, é possível seguir o passo a passo descrito ou abrir diretamente no Google Colab [clicando aqui](https://colab.research.google.com/drive/1U7aYRnRgQye8RwQMTFd1DfzDCrsdL1QH?usp=sharing).
 
 ## Objetivo acadêmico
 
